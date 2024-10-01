@@ -1,0 +1,4 @@
+baseURL = 'https://vnpd.github.io/'
+language-Code = 'en-us'
+title = "VNPD's blog"
+theme='congo'

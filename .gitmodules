@@ -1,0 +1,4 @@
+[submodule "vnpd/vnpd.github.io"]
+	path = vnpd/vnpd.github.io
+	url = https://github.com/PhatVND/vnpd.github.io.git
+	branch = main
