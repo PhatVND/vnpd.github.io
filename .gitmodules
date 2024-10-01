@@ -2,3 +2,7 @@
 	path = vnpd/vnpd.github.io
 	url = https://github.com/PhatVND/vnpd.github.io.git
 	branch = main
+[submodule "vnpd/new"]
+	path = vnpd/new
+	url = https://github.com/PhatVND/vnpd.github.io.git
+	branch = main
